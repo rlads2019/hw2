@@ -1,5 +1,5 @@
 ---
-author: "未命名 B01201001 一般系"
+author: "未命名 B01203004 一般系"
 title: "HW 2: 試試水溫"
 date: |
   | 2019-09-19
@@ -99,9 +99,8 @@ order_s <- function(p1, p2, p3) {
 (20 分) 請撰寫一個「華氏轉攝氏」的函數 `f2c()`，使其能接受一個「華氏溫標」的輸入，並輸出此溫度的「攝氏溫標」。
 
 ```{r}
-# modify the code in the function, f2c, below
 f2c <- function(fahrenheit) {
-
+  # write your code here
 }
 
 # 請勿更動此行之下的程式碼
